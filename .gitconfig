@@ -1,0 +1,7 @@
+[user]
+	name = NickPhillips
+	email = nhphillips5@gmail.com
+[core]
+	editor = nvim
+[color]
+	ui = true
